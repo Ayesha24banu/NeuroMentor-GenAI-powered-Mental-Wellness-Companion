@@ -1,0 +1,51 @@
+
+# streamlit run app.py
+# pip install -r requirements.txt
+# venv/Scripts/activate
+
+# 🌐 Streamlit and UI
+streamlit==1.33.0
+streamlit-option-menu==0.3.6
+Pillow==10.2.0
+
+
+# 🤖 Gemini (Compatible with langchain-google-genai)
+google-generativeai==0.3.2
+langchain-google-genai==0.0.9
+
+# 🧠 LangChain Core
+langchain==0.1.14
+langchain-community==0.0.30
+
+# 🗣️ STT: Whisper + SoundDevice
+openai-whisper==20231117
+sounddevice==0.4.6
+scipy==1.13.0
+wavio
+
+
+# 🔊 TTS: pyttsx3 (cross-platform)
+pyttsx3==2.90
+playsound==1.2.2
+
+
+# 🌍 Web Search: Serper.dev
+requests==2.31.0
+python-dotenv==1.0.1
+
+# 📚 File Handling
+PyMuPDF==1.23.24
+
+# 🧠 Sentiment Analysis (Compatible with Hugging Face models)
+transformers==4.41.1
+torch==2.6.0
+sentencepiece==0.2.0
+
+# 📅 Timestamp Utilities
+python-dateutil==2.9.0.post0
+plotly
+matplotlib>=3.7
+pandas>=2.0
+fpdf
+SpeechRecognition>=3.8
+WordCloud

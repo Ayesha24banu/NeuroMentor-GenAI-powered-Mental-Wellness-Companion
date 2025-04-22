@@ -1,0 +1,58 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+*.so
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment and secrets
+.env
+
+
+# Streamlit cache
+.streamlit/
+
+# Data files and logs
+data/chat_history/
+data/uploads/
+data/attachments/
+data/analytics/*.json
+*.log
+
+# Ignore user data
+data/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre
+.pyre/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+
