@@ -146,8 +146,8 @@ Create a .env file:
 **Blog:** [Medium Blog Link] (https://medium.com/@ayesha24banu/neuromentor-a-genai-powered-mental-wellness-companion-58e01548b2a2)
 
 ---
-## 📹 Google drive video Execution
-**Demo:** [NeuroMentor Walkthrough](https://drive.google.com/file/d/1X2oK43dZwRhsmu8_0E1ZLDQAFhXCQRyl/view?usp=drive_link)
+## 📹 video Execution
+**Demo:**
 
 
 https://github.com/user-attachments/assets/bcb3cb03-05df-4361-ac1b-34e201e7eb78
