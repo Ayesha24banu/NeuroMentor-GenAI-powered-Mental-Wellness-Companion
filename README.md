@@ -147,7 +147,7 @@ Create a .env file:
 
 ---
 ## 📹 video Execution
-**Demo:**
+**Demo:** NOTE: The audio is working in code and execution, But unable to record audio in this vedio Demo
 
 
 https://github.com/user-attachments/assets/bcb3cb03-05df-4361-ac1b-34e201e7eb78
