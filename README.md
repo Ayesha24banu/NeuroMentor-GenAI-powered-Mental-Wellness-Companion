@@ -150,7 +150,7 @@ Create a .env file:
 **Demo:** [NeuroMentor Walkthrough](https://drive.google.com/file/d/1X2oK43dZwRhsmu8_0E1ZLDQAFhXCQRyl/view?usp=drive_link)
 
 
-Uploading Neuromentor gen Ai app (1).mp4…
+https://github.com/user-attachments/assets/bcb3cb03-05df-4361-ac1b-34e201e7eb78
 
 
 ---
