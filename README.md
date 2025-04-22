@@ -108,6 +108,7 @@ It brings real-world impact by empowering users to take charge of their emotiona
 **3. Configure Environment Variables**
 
 Create a .env file:
+
     ```bash
     GOOGLE_API_KEY=your_google_generativeai_key
     SERPER_API_KEY=your_serper_dev_key
@@ -147,6 +148,10 @@ Create a .env file:
 ---
 ## 📹 Google drive video Execution
 **Demo:** [NeuroMentor Walkthrough](https://drive.google.com/file/d/1X2oK43dZwRhsmu8_0E1ZLDQAFhXCQRyl/view?usp=drive_link)
+
+
+Uploading Neuromentor gen Ai app (1).mp4…
+
 
 ---
 
